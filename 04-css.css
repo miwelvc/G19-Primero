@@ -31,3 +31,11 @@ ul > li{
     color: blue;
     text-decoration: double;
 }
+
+ul li{
+    font-weight: bold;
+}
+
+.contenido ~ div{
+    border: 2px solid peru; 
+}
