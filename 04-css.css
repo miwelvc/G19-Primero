@@ -1,0 +1,17 @@
+/* Selectores de Etiqueda */
+h1{
+    color: peru;
+    font-family: Arial;
+}
+
+p{
+    font-style: italic;
+    font-family: sans-serif;
+
+}
+
+/* Selectores de Clase */
+
+.importante {
+    background-color: aquamarine;
+}
