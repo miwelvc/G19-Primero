@@ -12,3 +12,26 @@ header {
     height: 100px;
     /* box-sizing: border-box;*/
 }
+
+.resaltar {
+    background-color: gold;
+    display: inline;
+    height: 100px;
+    width: 2000px;
+}
+
+
+
+article {
+    border: 2px solid red;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+#noticia {
+    color: blue;
+}
+.articulos {
+    color: red;
+}
